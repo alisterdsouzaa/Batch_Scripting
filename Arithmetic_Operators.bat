@@ -4,7 +4,7 @@ rem +-------------------------------------------------------------+
 rem |    Author : Alister D'souza                                 |
 rem |    Date   : 10/08/2020                                      |
 rem |    Contact: @alisterdsouzaa                                 |
-rem |    Script : Practicing operators in batch  				  |
+rem |    Script : Practicing operators in batch  				          |
 rem +-------------------------------------------------------------+
 
 set /A iNum1 = 5
