@@ -3,8 +3,8 @@
 rem +-------------------------------------------------------------+
 rem |    Author : Alister D'souza                                 |
 rem |    Date   : 17/10/2022                                      |
-rem |    Script : Practicing operators in batch  	              |
-rem |    			                    						  |    
+rem |    Script : Practicing operators in batch  	                |
+rem |    			                    					                  	  |    
 rem +-------------------------------------------------------------+
 
 :: Command Line arguments
